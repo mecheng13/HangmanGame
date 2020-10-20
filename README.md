@@ -1,2 +1,1 @@
-# HangmanGame
-Hangman game in python
+This program displays an interactive hangman game. This game randomly selects a word from a list of encrypted words. The user is able to guess incorrectly 10 times before they are unable to guess any more letters of the word. If all letters of the word are guessed correctly then it is decrypted to reveal the true message.
